@@ -1,9 +1,9 @@
-from command import Command
-from command_node import CommandNode
-from error import *
-from logger import Logger
-from runner import Runner
-from root import Root
+from .command import Command
+from .command_node import CommandNode
+from .error import *
+from .logger import Logger
+from .runner import Runner
+from .root import Root
 
 
 if __name__ == "__main__":

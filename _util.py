@@ -1,4 +1,4 @@
-from error import MissingArgument
+from .error import MissingArgument
 
 
 def get_args(order, *args, **kwargs):

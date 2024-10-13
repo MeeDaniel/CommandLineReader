@@ -1,6 +1,6 @@
 from json import loads
-from error import Error
-from logger import Logger
+from .error import Error
+from .logger import Logger
 
 
 class Command:

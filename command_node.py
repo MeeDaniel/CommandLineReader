@@ -1,5 +1,5 @@
-from command import Command
-from _util import *
+from .command import Command
+from ._util import *
 
 from typing import List
 

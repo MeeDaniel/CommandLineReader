@@ -1,4 +1,4 @@
-from command_node import CommandNode
+from .command_node import CommandNode
 
 
 class Root(CommandNode):

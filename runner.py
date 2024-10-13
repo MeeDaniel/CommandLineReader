@@ -1,5 +1,5 @@
-from logger import Logger
-from command_node import CommandNode
+from .logger import Logger
+from .command_node import CommandNode
 
 
 class Runner:
